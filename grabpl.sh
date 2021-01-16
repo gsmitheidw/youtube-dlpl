@@ -17,7 +17,7 @@
 # Useful Variables
 pathmusic='/mnt/mp3'
 # playlist on youtube
-pathplaylist=$(dialog --inputbox "Enter Playlist URL" 10 40) 3>&1 1>&2 2>&3 3>&-
+pathplaylist=$(dialog --inputbox "Enter Playlist URL" 10 40  3>&1 1>&2 2>&3 3>&- )
 
 pathremote='mp3'
 
