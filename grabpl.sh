@@ -16,6 +16,7 @@
 
 # Useful Variables
 pathmusic='/mnt/mp3'
+# playlist on youtube
 pathplaylist='YOUR_YOUTUBE_PLAYLIST_FULL_URL'
 pathremote='mp3'
 
